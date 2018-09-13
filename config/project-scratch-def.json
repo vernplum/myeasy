@@ -1,7 +1,10 @@
 {
-    "orgName": "equek Company",
+    "orgName": "Easy Spaces",
     "edition": "Developer",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+    "hasSampleData": "false",
+    "features": "ServiceCloud;ServiceWave;SalesWave",
+    "orgPreferences": {
+        "enabled": ["S1DesktopEnabled", "IsLiveAgentEnabled"],
+        "disabled": ["S1EncryptedStoragePref2"]
     }
 }
