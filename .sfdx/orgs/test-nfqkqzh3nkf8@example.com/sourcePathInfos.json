@@ -32,29 +32,27 @@
     [
         "/Users/equek/dev/myeasy/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default",
             "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1538485365688,
-            "changeTime": 1538485365688,
-            "contentHash": "d786f897b6a22488143ef1dd6ae377830e1050dc",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 448,
+            "modifiedTime": 1538489946347,
+            "changeTime": 1538489946347,
+            "contentHash": "039621bc8cebadc51f8cf0f0c0c228f5e0005b18"
         }
     ],
     [
         "/Users/equek/dev/myeasy/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1536743650388,
-            "changeTime": 1536743650388,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 192,
+            "modifiedTime": 1538489946199,
+            "changeTime": 1538489946199,
+            "contentHash": "bab6cb7eb06bde11a8417b40c809b50a3e02c3f8"
         }
     ],
     [
@@ -881,68 +879,66 @@
     [
         "/Users/equek/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 24765,
-            "modifiedTime": 1538485324576,
-            "changeTime": 1538485324576,
-            "contentHash": "286a161d839b4bb84597ac411f07e91525875cb1",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 25203,
+            "modifiedTime": 1538489946289,
+            "changeTime": 1538489946289,
+            "contentHash": "1af66c0a9d1b7041bce616b663c9d75138047d92"
         }
     ],
     [
         "/Users/equek/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 10249,
-            "modifiedTime": 1538485324613,
-            "changeTime": 1538485324613,
-            "contentHash": "12564658271df886459b7a0be21798f7cfc2f8e7",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 10689,
+            "modifiedTime": 1538489946326,
+            "changeTime": 1538489946326,
+            "contentHash": "cb0d677ddfc5629de4df9d50dbfb5390d49f3c09"
         }
     ],
     [
         "/Users/equek/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 10245,
-            "modifiedTime": 1538485324626,
-            "changeTime": 1538485324626,
-            "contentHash": "881bdc7a9ed2f7f20e0ad30d83719733c47f7c90",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 10685,
+            "modifiedTime": 1538489946343,
+            "changeTime": 1538489946343,
+            "contentHash": "6f84fc10c4946ccaacf4f2bbf9e2cedc54888af3"
         }
     ],
     [
         "/Users/equek/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 10585,
-            "modifiedTime": 1538485324600,
-            "changeTime": 1538485324600,
-            "contentHash": "1de044c12256bc10d01b2f19ea5252b31a44f9f3",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 11025,
+            "modifiedTime": 1538489946313,
+            "changeTime": 1538489946313,
+            "contentHash": "101168242f5637cb0bb50a134b18df7304d6888f"
         }
     ],
     [
         "/Users/equek/dev/myeasy/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1536825572635,
-            "changeTime": 1536825572635,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 192,
+            "modifiedTime": 1538489946234,
+            "changeTime": 1538489946234,
+            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931"
         }
     ],
     [
@@ -1203,40 +1199,404 @@
     [
         "/Users/equek/dev/myeasy/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1538485593898,
             "changeTime": 1538485593898,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/equek/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1538485593894,
             "changeTime": 1538485593894,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/equek/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1773,
             "modifiedTime": 1538485593898,
             "changeTime": 1538485593898,
-            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480"
+            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538486340698,
+            "changeTime": 1538486340698,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+        {
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+            "isDirectory": false,
+            "size": 1600,
+            "modifiedTime": 1538486340700,
+            "changeTime": 1538486340700,
+            "contentHash": "7368b83da99efba171114d33f02adb117a95586c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+        {
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538486340702,
+            "changeTime": 1538486340702,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+        {
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+            "isDirectory": false,
+            "size": 58,
+            "modifiedTime": 1538486340704,
+            "changeTime": 1538486340704,
+            "contentHash": "1962a761f211c3ef3eaa4247df5d665f5eddf34d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538486340706,
+            "changeTime": 1538486340706,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+        {
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+            "isDirectory": false,
+            "size": 729,
+            "modifiedTime": 1538486340709,
+            "changeTime": 1538486340709,
+            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+        {
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+            "isDirectory": false,
+            "size": 368,
+            "modifiedTime": 1538486340713,
+            "changeTime": 1538486340713,
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 562,
+            "modifiedTime": 1538489946221,
+            "changeTime": 1538489946221,
+            "contentHash": "6b6bbcb93692469e0fcb4f43d391a7b9666f17a0"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538489946196,
+            "changeTime": 1538489946196,
+            "contentHash": "5d6ec868b1822a6e09cbf3669530d73aebc057e9"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+        {
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538486340703,
+            "changeTime": 1538486340703,
+            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538489946221,
+            "changeTime": 1538489946221,
+            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 658,
+            "modifiedTime": 1538489946190,
+            "changeTime": 1538489946190,
+            "contentHash": "92e20e8a2f341b6275714405ced39bcc162be0e2"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1311,
+            "modifiedTime": 1538489946196,
+            "changeTime": 1538489946196,
+            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538489946200,
+            "changeTime": 1538489946200,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 979,
+            "modifiedTime": 1538489946204,
+            "changeTime": 1538489946204,
+            "contentHash": "67d2bfa6d206fd15d7f89c44bfef02be073ab7ad"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1310,
+            "modifiedTime": 1538489946207,
+            "changeTime": 1538489946207,
+            "contentHash": "35bab6e1ad9701cb233537652997e04be890f67f"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1078,
+            "modifiedTime": 1538489946211,
+            "changeTime": 1538489946211,
+            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 186,
+            "modifiedTime": 1538489946218,
+            "changeTime": 1538489946218,
+            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1383,
+            "modifiedTime": 1538489946228,
+            "changeTime": 1538489946228,
+            "contentHash": "b55ab67d3636d14ddf42755a3e6d1222097d12ba"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1538489946232,
+            "changeTime": 1538489946232,
+            "contentHash": "e06a9729bbf240982a024a16f80809dff4655de2"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1538489946234,
+            "changeTime": 1538489946234,
+            "contentHash": "0636108115037367e90357ef4a552a6e29df0000"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1505,
+            "modifiedTime": 1538489946237,
+            "changeTime": 1538489946237,
+            "contentHash": "d9438c7ddfb0a222857e986e7d46b965f2928e14"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 545,
+            "modifiedTime": 1538489946347,
+            "changeTime": 1538489946347,
+            "contentHash": "2d8c95659f0519dd4e501e3ba976fa08fdb6ee4c"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 148954,
+            "modifiedTime": 1538489946348,
+            "changeTime": 1538489946348,
+            "contentHash": "ceaf48b495afd38bde7871e9ba9f0ad5f0c90a05"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/aura/reservationHelper",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538489946211,
+            "changeTime": 1538489946211,
+            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538489946232,
+            "changeTime": 1538489946232,
+            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538489946236,
+            "changeTime": 1538489946236,
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591"
+        }
+    ],
+    [
+        "/Users/equek/dev/myeasy/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/myeasy/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538489946348,
+            "changeTime": 1538489946348,
+            "contentHash": "9048ce2ca7911dd30382559ef1604aa192fb3eb6"
         }
     ]
 ]
